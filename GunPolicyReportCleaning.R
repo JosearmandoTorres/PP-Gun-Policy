@@ -45,7 +45,7 @@ roper_data <- roper_data %>%
 ### filtering for specific samples
 # note that i filtered our likely voters and Exiting/early/absentee voters
 # I decided to keep the survey that samples national gun owners for now
-# I know this is not a representative sample but i can see a fututre where this might be insightful
+# I know this is not a representative sample but i can see a future where this might be insightful
 
 approved_samples <- c(
   "Adults",
